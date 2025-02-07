@@ -5,7 +5,7 @@ showcasing features like database integration and an interactive UI (in the cons
 Features
 Fully implemented in C++
 SQLite integration for managing ticketing data
-A custom touch with "Megalovania.mav" audio that activates upon execution
+A custom touch with "Megalovania.mav" (find the .mav online yourself) audio that activates upon execution
 Requires minimal setup with tools like MSYS2 MINGW32 and SQLite
 Requirements
 Before running this project, ensure the following are installed on your system:
